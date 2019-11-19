@@ -3,4 +3,4 @@ prefix=H
 game=hplay hhelp
 stayinchannel=true
 songinstatus=true
-token=NjQ2MzE0NTc3NzEzNDMwNTM4.XdPVkA.Gg728_teeA5oIlqRdwXYfur0HuU
+token=NjQ2MzE0NTc3NzEzNDMwNTM4.XdPaLw.SepkzPl2kFWUs3o_xNnOHWLSPF4
