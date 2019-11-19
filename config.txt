@@ -1,0 +1,6 @@
+owner=557700440318541834
+prefix=H
+game=hplay hhelp
+stayinchannel=true
+songinstatus=true
+token=NjQ2MzE0NTc3NzEzNDMwNTM4.XdPVkA.Gg728_teeA5oIlqRdwXYfur0HuU
